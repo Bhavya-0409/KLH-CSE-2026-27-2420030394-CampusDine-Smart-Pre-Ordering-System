@@ -2,6 +2,8 @@ Adaptive Campus Canteen Pre-Ordering and Smart Pickup System
 
 
 Supervisor name : Anugu Swapna 
+
+
 Team members:
 S.No. University ID Name
 1. 2420090110 Manikonda Pranavi
